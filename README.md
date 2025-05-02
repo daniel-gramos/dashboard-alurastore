@@ -4,6 +4,8 @@ Este projeto apresenta um dashboard interativo desenvolvido com **Streamlit**, q
 
 🔗 Acesse o dashboard online: [dashboard-alurastore.streamlit.app](https://dashboard-alurastore.streamlit.app/)
 
+![Dashboard AluraStore](https://github.com/user-attachments/assets/2ad3e74c-43ac-4d0b-8ec5-d2ede6d494bd)
+
 ---
 
 ## 🧭 Objetivo
